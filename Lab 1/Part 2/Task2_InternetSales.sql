@@ -14,7 +14,7 @@ FILEGROUP SalesData
     MAXSIZE = UNLIMITED,
     FILEGROWTH = 10MB ),
 ( NAME = InternetSales_data2,
-	FILENAME = 'F:\AdditionalData\nternetSales_data2.ndf',
+	FILENAME = 'F:\AdditionalData\InternetSales_data2.ndf',
 	SIZE = 100MB,
 	MAXSIZE = UNLIMITED,
 	FILEGROWTH = 10MB )
