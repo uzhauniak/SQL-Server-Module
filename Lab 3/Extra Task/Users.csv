@@ -1,0 +1,11 @@
+User,Password,Role
+dev1,dev1test,dev
+dev2,dev2test,dev
+dev3,dev3test,dev
+dev4,dev4test,dev
+dev5,dev5test,dev
+appservice1,appservice1test,appservice
+service1,service1test,service
+backup1,backup1test,backup
+qa1,qa1test,qa
+qa2,qa2test,qa

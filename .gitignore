@@ -1,3 +1,9 @@
 # Exclude files related to uninstallation of SQL Server via PS script
 Lab 1/Part 1 - Extra Task/Named Instance Installation/ConfigurationFile_Uninstall.ini
 Lab 1/Part 1 - Extra Task/Named Instance Installation/UninstallNamedInstance.ps1
+Lab 1/Part 2 - Extra Task
+
+# Exclude files related to cleanup activities in Lab 3
+Lab 3/**/DropEncryption.ps1
+Lab 3/**/DropEncryption.sql
+Lab 3/**/DropUsers.ps1
